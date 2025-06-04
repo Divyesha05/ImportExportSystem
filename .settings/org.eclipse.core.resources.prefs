@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//WebContent/cart.jsp=UTF-8
+encoding//src/Controller/CartController.java=UTF-8
+encoding//src/Controller/LoginController.java=UTF-8
+encoding//src/Controller/OrderController.java=UTF-8
+encoding//src/Controller/ProductController.java=UTF-8
+encoding//src/Controller/RegisterController.java=UTF-8
+encoding//src/Implementor/CartDAO.java=UTF-8
+encoding//src/Implementor/OrderImpl.java=UTF-8
+encoding//src/Implementor/ProductDAOImpl.java=UTF-8
+encoding//src/Implementor/RegisterImplementor.java=UTF-8
+encoding//src/Implementor/ReportOpImp.java=UTF-8
+encoding//src/Interface/Operations.java=UTF-8
+encoding//src/Pojo/CartItem.java=UTF-8
+encoding//src/Pojo/Order.java=UTF-8
